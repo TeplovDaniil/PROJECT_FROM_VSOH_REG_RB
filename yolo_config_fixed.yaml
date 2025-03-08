@@ -1,0 +1,7 @@
+names:
+- '1'
+nc: 1
+train: dataset_txt/train/images
+train_labels: dataset_txt/train/labels
+val: dataset_txt/val/images
+val_labels: dataset_txt/val/labels
